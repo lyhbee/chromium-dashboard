@@ -1,6 +1,6 @@
 # Py2 Libraries
 mock==3.0.5
-Flask==1.1.2
+Flask==2.2.5
 funcsigs==1.0.2
 Jinja2==2.11.3
 MarkupSafe==1.1.1
