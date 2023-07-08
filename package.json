@@ -63,7 +63,7 @@
     "gulp-load-plugins": "^2.0.7",
     "gulp-minify-html": "^1.0.6",
     "gulp-rename": "^2.0.0",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
     "gulp-util": "^3.0.7",
     "http2-push-manifest": "^1.0.0",
@@ -96,7 +96,7 @@
     "@polymer/paper-styles": "^3.0.1",
     "lit": "^2",
     "node-fetch": ">=3.2.4",
-    "node-sass": ">=4.13.1",
+    "node-sass": ">=9.0.0",
     "urijs": ">=1.19.11",
     "yargs-parser": ">=21.0.1"
   }
