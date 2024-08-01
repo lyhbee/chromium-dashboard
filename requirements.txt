@@ -3,7 +3,7 @@
 
 # Py3 Libraries
 html5lib
-Django==3.2.13
+Django==3.2.25
 funcsigs
 google-python-cloud-debugger
 google-cloud-tasks
@@ -14,11 +14,11 @@ requests
 
 # TODO(jrobbins): Update to a 2.x version of flask, which may require source
 # code changes.
-Flask==1.1.2
+Flask==2.2.5
 funcsigs==1.0.2
-Jinja2==2.11.3
+Jinja2==3.1.4
 MarkupSafe==1.1.1
-Werkzeug==1.0.1
+Werkzeug==3.0.3
 click==7.1.2
 itsdangerous==1.1.0
 
